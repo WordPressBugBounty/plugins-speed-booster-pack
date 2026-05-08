@@ -5,7 +5,7 @@ Tags: speed, pagespeed, optimization, core web vitals, cache, lcp, cls, inp, fid
 Requires at least: 4.6
 Tested up to: 6.8
 Requires PHP: 5.6
-Stable tag: 4.5.9
+Stable tag: 4.5.9.1
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -100,6 +100,12 @@ All the time! We're always looking for new ways to get this plugin to a better s
 1. Plugin options page
 
 == Changelog ==
+
+= 4.5.9.1 =
+
+*Release Date: 08 May 2026*
+
+* **Fixed**: The "Function _load_textdomain_just_in_time was called incorrectly" error is now fixed.
 
 = 4.5.9 =
 
